@@ -2,11 +2,11 @@
 Примеры работ, выполненных на курсе «Инженер по тестированию» в Яндекс Практикум.
 
 ## Создание тестовой документации / тестирование
-- Проект: Яндекс Самокат — сервис для аренды самокатов, учебный тренажёр<br />[Чек-лист (веб)](https://docs.google.com/spreadsheets/d/1QjGNmV6ai5v4Wj9IXJyzcdIb-uWZDO6V-WxSdyHI3O0/edit?gid=614342265#gid=614342265) для проверки функциональности и вёрстки страницы создания заказа.
+- Проект: Яндекс Самокат — сервис для аренды самокатов, учебный тренажёр.<br />[Чек-лист (веб)](https://docs.google.com/spreadsheets/d/1QjGNmV6ai5v4Wj9IXJyzcdIb-uWZDO6V-WxSdyHI3O0/edit?gid=614342265#gid=614342265) для проверки функциональности и вёрстки страницы создания заказа.
 
 - Проект: Kick it! — Android-приложение, помогающее сделать выбор в игровой форме; проект стороннего заказчика.<br />[Чек-лист (мобильное приложение)](https://docs.google.com/spreadsheets/d/1QjGNmV6ai5v4Wj9IXJyzcdIb-uWZDO6V-WxSdyHI3O0/edit?gid=1927527035#gid=1927527035) для проверки функциональности профиля пользователя. 
 
-- Проект: Яндекс Маршруты — навигатор с расчётом цены и времени поездки, учёбный тренажёр)<br />[Тест-кейсы](https://docs.google.com/document/d/1yKD2T9JaCTJD3FDSUtLL1-qTUFWAGWQrnfFdEoUIQq8/edit?usp=sharing) для проверки кнопки бронирования каршеринга. 
+- Проект: Яндекс Маршруты — навигатор с расчётом цены и времени поездки, учебный тренажёр.<br />[Тест-кейсы](https://docs.google.com/document/d/1yKD2T9JaCTJD3FDSUtLL1-qTUFWAGWQrnfFdEoUIQq8/edit?usp=sharing) для проверки кнопки бронирования каршеринга. 
 
 - Проект: Kick it!<br />[Баг-репорты](https://docs.google.com/spreadsheets/d/1QjGNmV6ai5v4Wj9IXJyzcdIb-uWZDO6V-WxSdyHI3O0/edit?gid=820042544#gid=820042544), созданные по итогам мобильного тестирования. 
 
