@@ -17,6 +17,9 @@
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1QjGNmV6ai5v4Wj9IXJyzcdIb-uWZDO6V-WxSdyHI3O0/edit?gid=1553792215#gid=1553792215) для проверки части функциональности API (работа с курьерами и корзиной).
 - [Коллекция Postman](https://web.postman.co/workspace/ac1f4474-1d2b-4a98-ac6e-8b205cb5cb22/documentation/36364965-348e487a-f915-41a2-a46f-3d14d4fd4b7d) для тестирования части функциональности API, описанной в чек-листе.
 
+## SQL
+- [SQL-запросы](https://github.com/Ksenia-Karpova/SQL/tree/main), созданные в рамках тренажёра.
+
 ## Автоматизация тестов на Python
 
 - [Автотест API](https://github.com/Ksenia-Karpova/Final_project_QA). В рамках обучения изучила основы автотестирования на Python. Для дипломного проекта создала автотест запроса к API Яндекс Самокат.
